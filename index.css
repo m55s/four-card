@@ -3,12 +3,12 @@
 body {
     background-color: hsl(0, 0%, 98%);
     font-size: 15px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .principale {
     max-width: 500px;
     margin: auto;
-    font-family: 'Poppins', sans-serif;
     
 }
 
@@ -32,4 +32,10 @@ p {
 
 .secondaire {
     margin-top: 30px;
+}
+
+.attribution {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
 }
